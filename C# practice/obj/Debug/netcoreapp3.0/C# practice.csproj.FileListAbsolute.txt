@@ -1,0 +1,11 @@
+/home/haleem/Documents/fyp_work/C# practice/obj/Debug/netcoreapp3.0/C# practice.csprojAssemblyReference.cache
+/home/haleem/Documents/fyp_work/C# practice/obj/Debug/netcoreapp3.0/C# practice.AssemblyInfoInputs.cache
+/home/haleem/Documents/fyp_work/C# practice/obj/Debug/netcoreapp3.0/C# practice.AssemblyInfo.cs
+/home/haleem/Documents/fyp_work/C# practice/bin/Debug/netcoreapp3.0/C# practice
+/home/haleem/Documents/fyp_work/C# practice/bin/Debug/netcoreapp3.0/C# practice.deps.json
+/home/haleem/Documents/fyp_work/C# practice/bin/Debug/netcoreapp3.0/C# practice.runtimeconfig.json
+/home/haleem/Documents/fyp_work/C# practice/bin/Debug/netcoreapp3.0/C# practice.runtimeconfig.dev.json
+/home/haleem/Documents/fyp_work/C# practice/bin/Debug/netcoreapp3.0/C# practice.dll
+/home/haleem/Documents/fyp_work/C# practice/bin/Debug/netcoreapp3.0/C# practice.pdb
+/home/haleem/Documents/fyp_work/C# practice/obj/Debug/netcoreapp3.0/C# practice.dll
+/home/haleem/Documents/fyp_work/C# practice/obj/Debug/netcoreapp3.0/C# practice.pdb
